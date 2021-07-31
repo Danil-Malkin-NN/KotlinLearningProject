@@ -1,0 +1,10 @@
+# Project exclude paths
+
+/.gradle/
+/build/
+/build/js/packages/ZooPark-kotlinTestApplication/kotlin/
+/kotlinTestApplication/build/
+/kotlinTestApplication/build/classes/kotlin/jvm/main/
+/.idea/
+/gradle/
+/KtorFullStack/build/
