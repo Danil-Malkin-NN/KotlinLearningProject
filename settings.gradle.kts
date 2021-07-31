@@ -6,6 +6,8 @@ pluginManagement {
     plugins {
         kotlin("jvm") version kotlinVersion
         kotlin("multiplatform") version kotlinVersion
+        kotlin("js") version "1.5.20"
     }
 }
-include("kotlinTestApplication")
+include("KtorFullStack")
+include("KotlinReactJs")
